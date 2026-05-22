@@ -1,16 +1,22 @@
-## Hi there 👋
+# ⚡ Hi, I'm Sushant
 
-<!--
-**Sushant-Sourabh/Sushant-Sourabh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Senior Security Analyst and Penetration Tester with nine years of IT experience, specializing in Web Application Security, Active Directory exploitation, and AI/LLM Penetration Testing.
 
-Here are some ideas to get you started:
+## 🎯 Focus Areas
+* **Offensive Security:** Red Teaming, Active Directory (CRTP), and Web App Pentesting.
+* **Emerging Tech:** LLM Vulnerability Research, Prompt Injection, and AI Security Guardrails.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Security Research & Playbooks
+* [**AI-Pentest-Playbook**](https://github.com/Sushant-Sourabh/AI-Pentest-Playbook): A comprehensive methodology and payload repository for testing LLM applications against prompt injection, data exfiltration, and RBAC bypasses.
+* [**CRTP-Commands**](https://github.com/Sushant-Sourabh/CRTP-Commands): Quick-reference guide and structured methodologies for Active Directory enumeration, lateral movement, and persistence.
+
+## 📓 OffSec Lab Writeups
+*(Replacing these with your actual blog links as you publish them)*
+* [Deep Dive: Active Directory Privilege Escalation](#)
+* [Bypassing Web Application Filters: A Practical Guide](#)
+
+## 🌐 Beyond the Terminal
+When I am not hunting vulnerabilities or preparing for advanced certifications like CEH, you can usually find me mapping out scenic driving routes as a Level 7 Google Maps Local Guide, shooting travel vlogs, or exploring the mechanics of modern automotive tech.
+
+---
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/sushant-sourabh-22a756a2) | sushant.sourabh@outlook.com
