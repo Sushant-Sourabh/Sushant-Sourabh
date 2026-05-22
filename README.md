@@ -11,7 +11,6 @@ I am a Senior Security Analyst and Penetration Tester with nine years of IT expe
 * [**CRTP-Commands**](https://github.com/Sushant-Sourabh/CRTP-Commands): Quick-reference guide and structured methodologies for Active Directory enumeration, lateral movement, and persistence.
 
 ## 📓 OffSec Lab Writeups
-*(Replacing these with your actual blog links as you publish them)*
 * [Deep Dive: Active Directory Privilege Escalation](#)
 * [Bypassing Web Application Filters: A Practical Guide](#)
 
