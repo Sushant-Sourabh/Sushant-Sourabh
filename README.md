@@ -11,7 +11,7 @@ I am a Senior Security Analyst and Penetration Tester with nine years of IT expe
 * [**CRTP-Commands**](https://github.com/Sushant-Sourabh/CRTP-Commands): Quick-reference guide and structured methodologies for Active Directory enumeration, lateral movement, and persistence.
 
 ## 📓 OffSec Lab Writeups
-* https://github.com/Sushant-Sourabh/Writups/blob/main/PG-Practice-ClamAV.md
+* [**Proving Grounds: ClamAV** — Exploiting Sendmail for Direct Root Access](https://github.com/Sushant-Sourabh/Writups/blob/main/PG-Practice-ClamAV.md)
 * [Bypassing Web Application Filters: A Practical Guide](#)
 
 ## 🌐 Beyond the Terminal
