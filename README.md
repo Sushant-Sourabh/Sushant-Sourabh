@@ -12,7 +12,7 @@ I am a Senior Security Analyst and Penetration Tester with nine years of IT expe
 
 ## 📓 OffSec Lab Writeups
 * [**Proving Grounds: ClamAV** — Exploiting Sendmail for Direct Root Access](https://github.com/Sushant-Sourabh/Writups/blob/main/PG-Practice-ClamAV.md)
-* [Bypassing Web Application Filters: A Practical Guide](#)
+* [**Proving Grounds: Pelican** — Exhibitor RCE to Password Extraction](https://github.com/Sushant-Sourabh/Writups/blob/main/PG-Practice-Pelican.md)
 
 ## 🌐 Beyond the Terminal
 When I am not hunting vulnerabilities or preparing for advanced certifications like CEH, you can usually find me mapping out scenic driving routes as a Level 7 Google Maps Local Guide, shooting travel vlogs, or exploring the mechanics of modern automotive tech.
