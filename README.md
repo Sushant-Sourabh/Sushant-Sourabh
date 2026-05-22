@@ -1,6 +1,6 @@
 # ⚡ Hi, I'm Sushant Sourabh
 
-I am a Senior Security Analyst and Penetration Tester with nine years of IT experience, specializing in Web Application Security, Active Directory exploitation, and AI/LLM Penetration Testing.
+I am a Senior Security Analyst and Penetration Tester with nine years of IT experience, specializing in Web Application Penetration testing, Infrastructure, Active Directory exploitation, and AI/LLM Penetration Testing.
 
 ## 🎯 Focus Areas
 * **Offensive Security:** Red Teaming, Active Directory (CRTP), and Web App Pentesting.
