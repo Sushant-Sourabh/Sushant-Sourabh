@@ -1,10 +1,10 @@
 # ⚡ Hi, I'm Sushant Sourabh
 
-I am a Senior Security Analyst and Penetration Tester with nine years of IT experience, specializing in Web Application Penetration testing, Infrastructure, Active Directory exploitation, and AI/LLM Penetration Testing.
+I am a Cyber Security Proffessional and Penetration Tester with nine years of IT experience, specializing in Web Application Penetration testing, Infrastructure, Active Directory exploitation, and AI/LLM Penetration Testing.
 
 ## 🎯 Focus Areas
 * **Offensive Security:** Red Teaming, Active Directory (CRTP), and Web App Pentesting.
-* **Emerging Tech:** LLM Vulnerability Research, Prompt Injection, and AI Security Guardrails.
+* **Emerging Tech:** AI/LLM Vulnerability Research, Prompt Injection, and AI Security Guardrails.
 
 ## 📂 Security Research & Playbooks
 * [**AI-Pentest-Playbook**](https://github.com/Sushant-Sourabh/AI-Pentest-Playbook): A comprehensive methodology and payload repository for testing LLM applications against prompt injection, data exfiltration, and RBAC bypasses.
