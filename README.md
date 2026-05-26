@@ -13,6 +13,8 @@ I am a Cyber Security Proffessional and Penetration Tester with nine years of IT
 ## 📓 OffSec Lab Writeups
 * [**Proving Grounds: ClamAV** — Exploiting Sendmail for Direct Root Access](https://github.com/Sushant-Sourabh/Writups/blob/main/PG-Practice-ClamAV.md)
 * [**Proving Grounds: Pelican** — Exhibitor RCE to Password Extraction](https://github.com/Sushant-Sourabh/Writups/blob/main/PG-Practice-Pelican.md)
+* [**Proving Grounds: Snookums** — Exploiting PHP Gallery LFI and Web Scraper for Root](https://github.com/Sushant-Sourabh/Writups/blob/main/PG-Practice-Snookums.md)
+* [**Proving Grounds: Pelican** — Exploiting CVE-2024-51757 (happy-dom) and Simple PHP Photo Gallery](https://github.com/Sushant-Sourabh/Writups/blob/main/PG-Practice-WallpaperHub.md)
 
 ## 🌐 Beyond the Terminal
 When I am not hunting vulnerabilities or preparing for advanced certifications like OSCP, you can usually find me mapping out scenic driving routes as a Level 7 Google Maps Local Guide, shooting travel vlogs, or exploring the mechanics of modern automotive tech and gadgets.
