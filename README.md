@@ -1,6 +1,8 @@
 # ⚡ Hi, I'm Sushant Sourabh
 
-I am a Cyber Security Proffessional and Penetration Tester with nine years of IT experience, specializing in Web Application Penetration testing, Infrastructure, Active Directory exploitation, and AI/LLM Penetration Testing.
+🔴 Offensive Security Professional | Web, API & Active Directory Pentesting | AI/LLM Security
+
+CRTP Certified | OSCP Preparation Ongoing | Writeups and Playbooks for Red Teaming, Active Directory, and AI Security
 
 ## 🎯 Focus Areas
 * **Offensive Security:** Red Teaming, Active Directory (CRTP), and Web App Pentesting.
