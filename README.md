@@ -11,6 +11,7 @@ CRTP Certified | OSCP Preparation Ongoing | Writeups and Playbooks for Red Teami
 ## 📂 Security Research & Playbooks
 * [**AI-Pentest-Playbook**](https://github.com/Sushant-Sourabh/AI-Pentest-Playbook): A comprehensive methodology and payload repository for testing LLM applications against prompt injection, data exfiltration, and RBAC bypasses.
 * [**CRTP-Commands**](https://github.com/Sushant-Sourabh/CRTP-Commands): Quick-reference guide and structured methodologies for Active Directory enumeration, lateral movement, and persistence.
+* [**PayloadsAllTheThings**](https://github.com/Sushant-Sourabh/PayloadsAllTheThings): Quick-reference repository containing commonly used payloads and bypass techniques for web application testing, privilege escalation, and offensive security assessments.
 
 ## 📓 OffSec Lab Writeups
 * [**Proving Grounds: ClamAV** — Exploiting Sendmail for Direct Root Access](https://github.com/Sushant-Sourabh/Writups/blob/main/PG-Practice-ClamAV.md)
