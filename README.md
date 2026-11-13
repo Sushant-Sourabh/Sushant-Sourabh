@@ -10,7 +10,7 @@ CRTP Certified and C-AI/MLPen certified | OSCP Preparation Ongoing | Writeups an
 
 ## 📂 Security Research & Playbooks
 * [**AI-Pentest-Playbook**](https://github.com/Sushant-Sourabh/AI-Pentest-Playbook):  Methodology, payloads and hands-on labs for testing LLM applications and AI agents, covering prompt injection, indirect injection, data exfiltration, RBAC bypasses, and framework mapping.
-* [**CRTP-Commands**](https://github.com/Sushant-Sourabh/CRTP-Commands): Quick-reference commands and methodology for Active Directory enumeration, lateral movement, and persistence.
+* [**Active Directory Pentest**](https://github.com/Sushant-Sourabh/Active-Directory-Pentest): Quick-reference commands and methodology for Active Directory enumeration, lateral movement, and persistence.
 * [**PayloadsAllTheThings**](https://github.com/Sushant-Sourabh/PayloadsAllTheThings): Payloads and bypass techniques for web application testing, privilege escalation, and offensive security assessments.
 * [**OSCP-Preparation-Material**](https://github.com/Sushant-Sourabh/OSCP-Preparation-Material): Study notes, methodology and an exam guide covering enumeration, privilege escalation, exploitation, and exam strategy. Forked from RihaMaheshwari/OSCP-Preparation-Material, with my additions.
 
